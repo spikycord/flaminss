@@ -1,5 +1,5 @@
 {
-  "databaseURL": "https://Spikycord-s-workspace-m881mt.us-east-1.xata.sh/db/flamins:main",
+  "databaseURL": "https://Spikycord-s-workspace-m881mt.us-east-1.xata.sh/db/flamins",
   "codegen": {
     "output": "src/xata.ts"
   }
