@@ -99,7 +99,7 @@ const DatabaseClient = buildClient();
 
 const defaultOptions = {
   databaseURL:
-    "https://Bishal-Biswas-s-workspace-rug17p.eu-central-1.xata.sh/db/SMMPanels-db",
+    "https://Spikycord-s-workspace-m881mt.us-east-1.xata.sh/db/flamins:main",
 };
 
 export class XataClient extends DatabaseClient<DatabaseSchema> {
